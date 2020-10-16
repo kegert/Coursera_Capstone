@@ -13,6 +13,8 @@ That is, our algorithm needs to take as input the conditions that may impact sev
 and predict the risk profile of potential accidents, i.e. the severity label. A user should then be able to specify the current conditions
 of their itinerary and should then get back the severity label of accidents happening.
 
+Example: A wet road should potential lead to higher severity accidents than a dry road.
+
 The main stakeholders are:
 
 * __traffic regulators__: They can make policies (e.g. speed limits, higher controls etc) in order to mitigate risks.
