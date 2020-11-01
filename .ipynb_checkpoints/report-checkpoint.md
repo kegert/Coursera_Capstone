@@ -1,7 +1,6 @@
 ---
 jupyter:
   jupytext:
-    formats: ipynb,md
     notebook_metadata_filter: hide_input
     text_representation:
       extension: .md
